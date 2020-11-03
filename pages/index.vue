@@ -10,7 +10,7 @@
         longer see them fired.
       </p>
       <div class="links">
-        <nuxt-link to="/">Click me</nuxt-link>
+        <nuxt-link to="/example">Click me</nuxt-link>
       </div>
     </div>
   </div>
