@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "nuxt-edge": "^2.14.8-26735067.baf94d31"
+    "nuxt": "^2.14.6"
   },
   "devDependencies": {}
 }
