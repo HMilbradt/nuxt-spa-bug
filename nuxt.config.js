@@ -20,7 +20,8 @@ export default {
       {
         innerHTML: `console.log('Firing script')`,
         type: "text/javascript",
-        hid: "log"
+        hid: "log",
+        once: true
       }
     ],
     __dangerouslyDisableSanitizers: ["script"]
