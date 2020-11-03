@@ -21,6 +21,7 @@ export default {
         innerHTML: `console.log('Firing script')`,
         type: "text/javascript",
         hid: "log",
+        vmid: "log",
         once: true
       }
     ],
